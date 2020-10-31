@@ -1,13 +1,8 @@
-- neo:4 Matrix
-
+- **neo:4 Matrix**
   - [Quick start](neo4/quickstart.md)
   - [Factory Reset](neo4/factoryreset.md)
-
-- neo:8 and neo:8a
-
+- **neo:8 and neo:8a**
   - [Quick start](neo8/quickstart.md)
   - [Factory Reset](neo8/factoryreset.md)  
-
-- Guide
-
+- **Guides**
   - [Alexa Setup](guide/alexasetup.md)
