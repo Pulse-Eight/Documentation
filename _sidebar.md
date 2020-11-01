@@ -1,8 +1,11 @@
-- **neo:4 Matrix**
+- **neo:4**
   - [Quick start](neo4/quickstart.md)
   - [Factory Reset](neo4/factoryreset.md)
 - **neo:8 and neo:8a**
   - [Quick start](neo8/quickstart.md)
-  - [Factory Reset](neo8/factoryreset.md)  
+  - [Factory Reset](neo8/factoryreset.md)
+- **ProAudio 8/16**
+- **ProAudio (1632/32/3248/3264)**
+- **ProAmp 8**
 - **Guides**
   - [Alexa Setup](guide/alexasetup.md)
